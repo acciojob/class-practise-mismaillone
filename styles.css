@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
-p:first-child{
+.selector:first-child{
 	color:#00f;
 	background:#eee;
 	font-family:Arial;
 	font-size:20px;
 	
 }
-p:nth-child(3){
+.selector:nth-child(3){
 	color:#00f;
 	background:#eee;
 	font-family:Arial;
